@@ -1,0 +1,41 @@
+.container {
+  background-color: #f5f6f7; /* Light background for contrast */
+  padding: 20px;
+  min-height: 100vh;
+}
+
+.card {
+  margin: 20px 0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.typography {
+  color: #000;
+}
+
+.follower-count {
+  font-size: 36px;
+  font-weight: bold;
+  color: #0073b1; /* LinkedIn blue */
+}
+
+.icon-button {
+  color: #0073b1; /* LinkedIn blue */
+}
+
+.card-media {
+  height: 200px;
+  object-fit: cover;
+}
+
+.text-field {
+  cursor: pointer;
+  background-color: #fff; /* White background for the TextField */
+  border-radius: 8px;
+}
+
+.button {
+  margin-left: 10px;
+ /* LinkedIn blue */
+}

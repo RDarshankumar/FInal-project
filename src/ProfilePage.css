@@ -1,0 +1,22 @@
+.banner-container {
+  position: relative;
+  height: 200px;
+  background-color: #e0e0e0;
+  margin-bottom: 20px;
+}
+
+.banner-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.profile-icon-container {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.profile-icon-container input {
+  display: none;
+}
